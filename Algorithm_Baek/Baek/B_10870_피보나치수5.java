@@ -3,7 +3,7 @@ package Recursion;
 import java.util.Scanner;
 
 public class B_10870_피보나치수5 {
-
+	
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
 		int num = sc.nextInt();
